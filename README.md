@@ -1,3 +1,3 @@
 # test
 
-Test repo is created for testing some Linux staff
+Test repo is created for testing some Linux stuff
